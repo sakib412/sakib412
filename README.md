@@ -3,7 +3,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakib412&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakib412&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakib412&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakib412&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakib412&theme=github)
 
