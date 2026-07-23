@@ -31,6 +31,7 @@ I spend most of my time on **distributed systems and cloud architecture** — mu
 - [adonisjs-mongoose](https://www.npmjs.com/package/adonisjs-mongoose) — Mongoose provider for AdonisJS
 - [lexical-react-rte](https://github.com/sakib412/lexical-react-rte) — Rich text editor built with Lexical + React
 - [next-intl-turborepo](https://github.com/sakib412/next-intl-turborepo) — Minimal next-intl setup for Turborepo
+- [adonis-req-logger](https://www.npmjs.com/package/adonis-req-logger) — Http request logger for adonisjs
 
 ## 📊 GitHub stats
 
