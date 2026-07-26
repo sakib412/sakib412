@@ -8,7 +8,7 @@ I spend most of my time on **distributed systems and cloud architecture** — mu
 ## 🔭 What I'm up to
 
 - Scaling **[EzyCourse](https://ezycourse.com)** & **[EzyCommunity](https://ezycommunity.com/)** — a multi-tenant LMS + community platform 
-- Designing microservices with CQRS, sagas, and outbox-based event relay
+- Designing microservices outbox-based event relay
 - Leading and growing the engineering team at **AppifyLab**
 
 ## 🛠️ Tech I work with
