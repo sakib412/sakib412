@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Najmus Sakib 👋</h1>
-<h3 align="center">Co-founder & CTO @ EzyCourse · Backend engineer · TypeScript/Node.js, Go, AWS · Bangladesh 🇧🇩</h3>
+<h3 align="center">Co-founder & CTO @ EzyCourse · Software architect · Distributed systems, cloud infra & DevOps · Bangladesh 🇧🇩</h3>
 
 ---
 
